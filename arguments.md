@@ -1,3 +1,5 @@
+Rough outline of the arguments for both points of the petition.  Items in (parentheses) need research/citations.
+
 # 1. Allow licensed amateur radio operators and applicants to easily opt-out of displaying their residential/postal address on the universal licensing system.
 
 * Publication of a person's name and address can be harmful/dangerous
