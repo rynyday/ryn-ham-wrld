@@ -72,8 +72,10 @@ This Agreement supersedes all other Agreements (both written and oral) between t
 
 [FULL NAME]<br>
 [TITLE]<br>
-[PERMANENT ADDRESS]<br>
-- [ ] Check here if **mail recipient** is unhoused and the address designated in Specifics Part 2 will be the permanent mailing address of the **mail recipient** upon activation of this agreement.<br>
+[PERMANENT ADDRESS]
+
+- [ ] Check here if **mail recipient** is unhoused and the address designated in Specifics Part 2 will be the permanent mailing address of the **mail recipient** upon activation of this agreement. 
+
 [PHONE NUMBER]<br>
 [EMAIL]<br><br>
 <hr>
